@@ -4,7 +4,7 @@
   <script type='text/javascript' src="angular.min.js"></script>
 </head>
 <body style="padding: 50px" 
-      ng-asdfinit="recipes in [ 'Pasta al Pesto', 'Garlic Broccoli', 'Garlic Pork', 'Black Pepper Beef' ]">
+      ng-init="recipes = [ 'Pasta al Pesto', 'Garlic Broccoli', 'Garlic Pork', 'Black Pepper Beef' ]">
 
   <ul>
     <li ng-repeat="recipe in recipes">{{ recipe }}</li>
