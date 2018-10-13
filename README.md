@@ -1,4 +1,7 @@
 # MeanWorkshop
+
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/MeanWorkshop.svg)](https://www.guardrails.io)
+
 This is the source code for the MEAN Workshop I gave in March of 2016.
 
 It's organised into a few key sections.
